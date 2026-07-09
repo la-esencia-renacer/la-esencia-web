@@ -60,6 +60,14 @@ El formulario operativo ya se encuentra activo en:
 
 https://forms.gle/Xy4s8oBx67ghwejFA
 
+## Política de privacidad
+
+La web incorpora una página inicial de privacidad y tratamiento de datos en:
+
+privacidad.html
+
+La política informa finalidad, datos solicitados, uso del formulario operativo, contacto para solicitudes de acceso, rectificación, actualización o supresión, y aclara que el formulario no constituye afiliación partidaria formal.
+
 ## Contacto provisorio
 
 laesenciarenacer@gmail.com

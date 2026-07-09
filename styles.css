@@ -817,6 +817,24 @@ main.document-page {
   font-weight: 800;
 }
 
+.privacy-version {
+  margin: 14px 0 0;
+  color: var(--color-muted);
+  font-weight: 800;
+}
+
+.privacy-body {
+  scroll-margin-top: calc(var(--header-height) + 24px);
+}
+
+.privacy-section {
+  margin-top: 34px;
+}
+
+.privacy-section h2 {
+  margin-top: 0;
+}
+
 .contact-line {
   padding-top: 8px;
   font-weight: 700;
@@ -881,6 +899,15 @@ main.document-page {
   font-weight: 800;
 }
 
+.privacy-link {
+  justify-self: start;
+  color: var(--color-blue);
+  font-weight: 800;
+  text-decoration-color: rgba(201, 154, 50, 0.72);
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
 .full {
   width: 100%;
 }
@@ -918,6 +945,10 @@ main.document-page {
 
 .site-footer a {
   color: #ffffff;
+}
+
+.footer-links {
+  font-weight: 800;
 }
 
 .footer-grid {
