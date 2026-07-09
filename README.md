@@ -68,6 +68,12 @@ privacidad.html
 
 La política informa finalidad, datos solicitados, uso del formulario operativo, contacto para solicitudes de acceso, rectificación, actualización o supresión, y aclara que el formulario no constituye afiliación partidaria formal.
 
+## Gestión interna
+
+Se incorpora una carpeta gestion/ con matriz de seguimiento, mensajes modelo y protocolo de respuesta para ordenar contactos recibidos por el formulario operativo.
+
+No publicar estos archivos como documentación pública de la web.
+
 ## Contacto provisorio
 
 laesenciarenacer@gmail.com
