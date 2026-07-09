@@ -419,6 +419,12 @@ h3 {
   font-size: 1.04rem;
 }
 
+.section-subtitle {
+  color: var(--color-blue) !important;
+  font-size: 1.18rem !important;
+  font-weight: 800;
+}
+
 .text-panel,
 .manifesto,
 .quote-card,
@@ -455,7 +461,9 @@ h3 {
 .principle-card,
 .area-card,
 .phase-card,
-.document-card {
+.document-card,
+.institute-card,
+.route-card {
   border: 1px solid var(--color-line);
   border-radius: 8px;
   background: var(--color-surface-strong);
@@ -469,7 +477,9 @@ h3 {
 .principle-card p,
 .area-card p,
 .phase-card p,
-.document-card p {
+.document-card p,
+.institute-card p,
+.route-card p {
   margin: 12px 0 0;
   color: var(--color-muted);
 }
@@ -540,6 +550,66 @@ h3 {
 
 .phase-card {
   padding: 22px;
+}
+
+.institute-highlight {
+  margin: 28px 0 0;
+  padding: 22px;
+  border: 1px solid rgba(201, 154, 50, 0.36);
+  border-radius: 8px;
+  color: var(--color-blue);
+  background:
+    linear-gradient(135deg, rgba(255, 253, 248, 0.92), rgba(241, 217, 145, 0.22)),
+    var(--color-surface-strong);
+  box-shadow: var(--shadow-soft);
+  font-size: clamp(1.35rem, 6vw, 2.2rem);
+  font-weight: 900;
+  line-height: 1.15;
+}
+
+.institute-grid,
+.route-grid {
+  grid-template-columns: 1fr;
+}
+
+.institute-card,
+.route-card {
+  padding: 22px;
+}
+
+.subsection-block {
+  margin-top: 34px;
+}
+
+.subsection-block > p {
+  max-width: 760px;
+  margin: 12px 0 0;
+  color: var(--color-muted);
+}
+
+.limit-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.limit-list span {
+  display: inline-flex;
+  align-items: center;
+  min-height: 42px;
+  padding: 10px 14px;
+  border: 1px solid rgba(18, 58, 99, 0.13);
+  border-radius: 8px;
+  color: var(--color-blue);
+  background: rgba(255, 255, 255, 0.76);
+  font-weight: 700;
+}
+
+.route-card h4 {
+  margin: 0;
+  color: var(--color-blue);
+  font-size: 1.05rem;
 }
 
 .stage-note {
@@ -743,7 +813,10 @@ h3 {
   }
 
   .three-columns,
-  .area-grid {
+  .area-grid,
+  .institute-grid,
+  .route-grid,
+  .document-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
@@ -769,7 +842,7 @@ h3 {
   }
 }
 
-@media (min-width: 920px) {
+@media (min-width: 1120px) {
   .menu-toggle {
     display: none;
   }
@@ -790,8 +863,8 @@ h3 {
   }
 
   .site-nav a {
-    padding: 8px 10px;
-    font-size: 0.88rem;
+    padding: 8px 8px;
+    font-size: 0.82rem;
   }
 
   .hero-grid,
@@ -814,6 +887,15 @@ h3 {
 
   .area-grid {
     grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+
+  .institute-grid,
+  .document-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .route-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
   .area-card {
