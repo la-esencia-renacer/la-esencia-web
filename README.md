@@ -60,6 +60,10 @@ El formulario operativo ya se encuentra activo en:
 
 https://forms.gle/Xy4s8oBx67ghwejFA
 
+## Cómo participar
+
+La web incorpora la página como-participar.html para explicar formas iniciales de participación ciudadana, profesional, territorial e institucional. Esta participación no constituye afiliación partidaria formal ni inscripción legal a una organización política.
+
 ## Política de privacidad
 
 La web incorpora una página inicial de privacidad y tratamiento de datos en:
