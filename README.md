@@ -72,6 +72,8 @@ La política informa finalidad, datos solicitados, uso del formulario operativo,
 
 Se incorpora una carpeta gestion/ con matriz de seguimiento, mensajes modelo y protocolo de respuesta para ordenar contactos recibidos por el formulario operativo.
 
+También se agregó un script opcional de configuración para Google Sheets dentro de gestion/.
+
 No publicar estos archivos como documentación pública de la web.
 
 ## Contacto provisorio
