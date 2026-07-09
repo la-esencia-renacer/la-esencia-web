@@ -23,7 +23,7 @@ Carpeta: raíz
 
 ## Dominio
 
-Dominio reservado: laesenciarenacer.com.ar
+Dominio institucional: laesenciarenacer.com.ar
 
 ## Contacto provisorio
 
