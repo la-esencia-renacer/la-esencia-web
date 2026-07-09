@@ -40,6 +40,16 @@ La web incorpora tres documentos públicos iniciales en formato HTML:
 
 Estos documentos son versiones públicas, sanitizadas y no jurídicas. No reemplazan documentos internos, asesoramiento profesional ni instrumentos legales futuros.
 
+## Documentos descargables
+
+La web incorpora tres documentos públicos descargables en PDF:
+
+- Manifiesto fundacional
+- Dossier del ecosistema
+- Hoja de ruta territorial inicial
+
+Los documentos son versiones públicas, sanitizadas y no jurídicas. No incluyen datos personales, actores reales ni información interna de estrategia.
+
 ## Contacto provisorio
 
 laesenciarenacer@gmail.com

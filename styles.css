@@ -637,8 +637,26 @@ h3 {
   padding: 22px;
 }
 
-.document-card .button {
+.document-card > .button {
   margin-top: auto;
+}
+
+.document-card-actions,
+.document-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.document-card-actions {
+  margin-top: auto;
+  padding-top: 18px;
+}
+
+.document-card-actions .button {
+  min-height: 44px;
+  padding: 10px 14px;
+  font-size: 0.92rem;
 }
 
 main.document-page {
@@ -677,7 +695,7 @@ main.document-page {
   line-height: 1.22;
 }
 
-.document-hero .button {
+.document-actions {
   margin-top: 24px;
 }
 
