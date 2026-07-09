@@ -9,6 +9,7 @@ Sitio institucional estático para presentar la identidad, manifiesto, áreas de
 ## Estructura
 
 - index.html
+- documentos/
 - styles.css
 - script.js
 - assets/
@@ -28,6 +29,16 @@ Dominio institucional: laesenciarenacer.com.ar
 ## Instituto / Observatorio
 
 La web incorpora una línea técnico-institucional en desarrollo orientada a transformar diagnósticos territoriales en programas, pilotos y evidencia aplicada. Esta línea no se presenta todavía como entidad jurídica formal ni como estructura partidaria.
+
+## Documentos públicos
+
+La web incorpora tres documentos públicos iniciales en formato HTML:
+
+- Manifiesto fundacional
+- Dossier del ecosistema
+- Hoja de ruta territorial inicial
+
+Estos documentos son versiones públicas, sanitizadas y no jurídicas. No reemplazan documentos internos, asesoramiento profesional ni instrumentos legales futuros.
 
 ## Contacto provisorio
 
