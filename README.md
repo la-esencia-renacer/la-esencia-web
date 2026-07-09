@@ -86,6 +86,10 @@ No publicar estos archivos como documentación pública de la web.
 
 Se incorpora una carpeta bitacora/ con registros públicos y sanitizados de hitos fundacionales del ecosistema. No contiene datos personales ni información estratégica reservada.
 
+## Comunicación inicial
+
+Se incorpora una carpeta comunicacion/ con kit de lanzamiento suave, mensajes para redes, mensajes para referentes, guía de publicación inicial y una placa SVG institucional. Estos materiales son internos y deben usarse con criterio prudente, no electoral y no personalista.
+
 ## Contacto provisorio
 
 laesenciarenacer@gmail.com

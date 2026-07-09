@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">La Esencia — placa institucional</title>
+  <desc id="desc">Placa sobria de lanzamiento suave de La Esencia con fondo claro, azul profundo y acento dorado.</desc>
+  <rect width="1200" height="675" fill="#f8f7f2"/>
+  <rect x="56" y="56" width="1088" height="563" rx="28" fill="#fffdf8" stroke="#e5dfd2" stroke-width="2"/>
+  <circle cx="600" cy="210" r="70" fill="#f1d991" opacity="0.95"/>
+  <path d="M470 238c42 52 88 78 130 78s88-26 130-78" fill="none" stroke="#123a63" stroke-width="6" stroke-linecap="round"/>
+  <path d="M430 262c56 70 113 105 170 105s114-35 170-105" fill="none" stroke="#c99a32" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+  <line x1="600" y1="118" x2="600" y2="86" stroke="#c99a32" stroke-width="5" stroke-linecap="round"/>
+  <line x1="535" y1="145" x2="512" y2="122" stroke="#c99a32" stroke-width="5" stroke-linecap="round"/>
+  <line x1="665" y1="145" x2="688" y2="122" stroke="#c99a32" stroke-width="5" stroke-linecap="round"/>
+  <text x="600" y="408" text-anchor="middle" fill="#123a63" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="86" font-weight="800">La Esencia</text>
+  <text x="600" y="463" text-anchor="middle" fill="#123a63" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">Movimiento Fundacional de Renacer Argentino</text>
+  <text x="600" y="526" text-anchor="middle" fill="#c99a32" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="800">Por la unidad, la verdad y el bien común</text>
+  <text x="600" y="584" text-anchor="middle" fill="#666f7a" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">laesenciarenacer.com.ar</text>
+</svg>
