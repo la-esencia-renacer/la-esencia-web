@@ -74,6 +74,8 @@ Se incorpora una carpeta gestion/ con matriz de seguimiento, mensajes modelo y p
 
 También se agregó un script opcional de configuración para Google Sheets dentro de gestion/.
 
+El script interno ahora incluye listas desplegables ampliadas para Región, Área validada, Próximo paso y Responsable interno.
+
 No publicar estos archivos como documentación pública de la web.
 
 ## Contacto provisorio

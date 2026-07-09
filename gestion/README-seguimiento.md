@@ -23,6 +23,10 @@ Este paquete sirve para ordenar respuestas recibidas desde el formulario operati
 6. Autorizar permisos si Google lo solicita.
 7. Volver a la planilla y verificar columnas, listas y hojas creadas.
 
+El script también crea desplegables para Estado, Tipo de contacto, Prioridad, Región, Área validada, Riesgo o sensibilidad, Respuesta enviada, Próximo paso y Responsable interno.
+
+Los campos Fecha de respuesta y Observaciones quedan como campos manuales.
+
 ## Nota institucional
 
 El formulario expresa intención de contacto o participación ciudadana inicial. No constituye afiliación partidaria formal ni inscripción legal a una organización política.

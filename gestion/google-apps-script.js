@@ -83,6 +83,52 @@ const LISTAS_LA_ESENCIA = {
   "Respuesta enviada": [
     "Sí",
     "No"
+  ],
+  "Región": [
+    "AMBA",
+    "Buenos Aires Interior",
+    "San Luis / Cuyo",
+    "Centro",
+    "Cuyo",
+    "NEA",
+    "NOA",
+    "Patagonia",
+    "Nacional",
+    "Exterior",
+    "Sin definir"
+  ],
+  "Área validada": [
+    "Comunidad y prevención social",
+    "Seguridad humana",
+    "Educación",
+    "Tecnología pública",
+    "Cultura, juego y encuentro comunitario",
+    "Justicia accesible",
+    "Gestión de crisis",
+    "Desarrollo productivo",
+    "Instituto / Observatorio",
+    "Nodos territoriales",
+    "Institucional",
+    "Sin definir",
+    "Otra"
+  ],
+  "Próximo paso": [
+    "Enviar respuesta general",
+    "Enviar respuesta profesional/técnica",
+    "Enviar respuesta institucional",
+    "Agendar reunión",
+    "Sumar a seguimiento",
+    "Derivar a Instituto / Observatorio",
+    "Evaluar nodo territorial futuro",
+    "Esperar nueva información",
+    "Sin continuidad"
+  ],
+  "Responsable interno": [
+    "Equipo La Esencia",
+    "Instituto / Observatorio",
+    "Nodo territorial futuro",
+    "Gestión institucional",
+    "Pendiente de asignación"
   ]
 };
 
@@ -178,8 +224,12 @@ function aplicarValidaciones_(hojaRespuestas, hojaListas) {
   aplicarValidacionDesdeLista_(hojaRespuestas, mapaColumnas["Estado"], hojaListas, "Estados", filasValidacion);
   aplicarValidacionDesdeLista_(hojaRespuestas, mapaColumnas["Tipo de contacto"], hojaListas, "Tipos de contacto", filasValidacion);
   aplicarValidacionDesdeLista_(hojaRespuestas, mapaColumnas["Prioridad"], hojaListas, "Prioridad", filasValidacion);
+  aplicarValidacionDesdeLista_(hojaRespuestas, mapaColumnas["Región"], hojaListas, "Región", filasValidacion);
+  aplicarValidacionDesdeLista_(hojaRespuestas, mapaColumnas["Área validada"], hojaListas, "Área validada", filasValidacion);
   aplicarValidacionDesdeLista_(hojaRespuestas, mapaColumnas["Riesgo o sensibilidad"], hojaListas, "Riesgo o sensibilidad", filasValidacion);
   aplicarValidacionDesdeLista_(hojaRespuestas, mapaColumnas["Respuesta enviada"], hojaListas, "Respuesta enviada", filasValidacion);
+  aplicarValidacionDesdeLista_(hojaRespuestas, mapaColumnas["Próximo paso"], hojaListas, "Próximo paso", filasValidacion);
+  aplicarValidacionDesdeLista_(hojaRespuestas, mapaColumnas["Responsable interno"], hojaListas, "Responsable interno", filasValidacion);
 }
 
 function aplicarValidacionDesdeLista_(hojaRespuestas, columnaDestino, hojaListas, nombreLista, filasValidacion) {
