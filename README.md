@@ -82,6 +82,10 @@ El script interno ahora incluye listas desplegables ampliadas para Región, Áre
 
 No publicar estos archivos como documentación pública de la web.
 
+## Bitácora fundacional
+
+Se incorpora una carpeta bitacora/ con registros públicos y sanitizados de hitos fundacionales del ecosistema. No contiene datos personales ni información estratégica reservada.
+
 ## Contacto provisorio
 
 laesenciarenacer@gmail.com
