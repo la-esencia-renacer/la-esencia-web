@@ -52,13 +52,13 @@ Los documentos son versiones públicas, sanitizadas y no jurídicas. No incluyen
 
 ## Formulario operativo
 
-La web queda preparada para integrar un Google Form institucional como canal operativo de contacto y participación inicial.
+La web integra un Google Form institucional activo como canal operativo de contacto y participación inicial.
 
 Este formulario no constituye afiliación partidaria formal, no solicita datos sensibles y funciona únicamente como vía de contacto, escucha y organización comunitaria.
 
-El enlace temporal debe reemplazarse por el Google Form definitivo:
+El formulario operativo ya se encuentra activo en:
 
-https://forms.gle/REEMPLAZAR_FORMULARIO
+https://forms.gle/Xy4s8oBx67ghwejFA
 
 ## Contacto provisorio
 
