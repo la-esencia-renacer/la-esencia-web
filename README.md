@@ -50,6 +50,16 @@ La web incorpora tres documentos públicos descargables en PDF:
 
 Los documentos son versiones públicas, sanitizadas y no jurídicas. No incluyen datos personales, actores reales ni información interna de estrategia.
 
+## Formulario operativo
+
+La web queda preparada para integrar un Google Form institucional como canal operativo de contacto y participación inicial.
+
+Este formulario no constituye afiliación partidaria formal, no solicita datos sensibles y funciona únicamente como vía de contacto, escucha y organización comunitaria.
+
+El enlace temporal debe reemplazarse por el Google Form definitivo:
+
+https://forms.gle/REEMPLAZAR_FORMULARIO
+
 ## Contacto provisorio
 
 laesenciarenacer@gmail.com

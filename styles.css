@@ -839,73 +839,50 @@ main.document-page {
   font-size: 0.94rem;
 }
 
-.participation-form {
+.participation-card {
   display: grid;
-  gap: 15px;
-  padding: 20px;
+  gap: 24px;
+  padding: 22px;
   border: 1px solid var(--color-line);
   border-radius: 8px;
   background: var(--color-surface-strong);
   box-shadow: var(--shadow-soft);
 }
 
-.form-field {
+.participation-card h3 {
+  font-size: 1.35rem;
+}
+
+.participation-checklist {
   display: grid;
-  gap: 7px;
+  gap: 10px;
+  margin: 16px 0 0;
+  padding-left: 22px;
 }
 
-.form-field label {
-  color: var(--color-blue);
-  font-size: 0.95rem;
-  font-weight: 800;
-}
-
-.form-field input,
-.form-field select,
-.form-field textarea {
-  width: 100%;
-  border: 1px solid #d9d2c5;
-  border-radius: 8px;
-  padding: 12px 13px;
-  color: var(--color-text);
-  background: #fffefa;
-  transition: border-color 160ms ease, box-shadow 160ms ease;
-}
-
-.form-field textarea {
-  resize: vertical;
-}
-
-.form-field input:focus,
-.form-field select:focus,
-.form-field textarea:focus {
-  border-color: rgba(18, 58, 99, 0.64);
-  box-shadow: 0 0 0 4px rgba(18, 58, 99, 0.08);
-  outline: none;
-}
-
-.form-field.has-error input,
-.form-field.has-error select,
-.form-field.has-error textarea {
-  border-color: #b63f3f;
-}
-
-.field-error {
-  min-height: 18px;
-  color: #9a3030;
-  font-size: 0.84rem;
+.participation-checklist li {
+  margin: 0;
+  color: var(--color-muted);
   font-weight: 700;
+}
+
+.participation-checklist li::marker {
+  color: var(--color-gold);
+}
+
+.participation-actions {
+  display: grid;
+  gap: 14px;
+}
+
+.participation-actions p {
+  margin: 0;
+  color: var(--color-blue);
+  font-weight: 800;
 }
 
 .full {
   width: 100%;
-}
-
-.form-status {
-  min-height: 24px;
-  margin: 0;
-  color: var(--color-blue);
-  font-weight: 800;
 }
 
 .closing p:not(.eyebrow) {
@@ -1001,15 +978,8 @@ main.document-page {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  .participation-form {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .participation-card {
     padding: 24px;
-  }
-
-  .form-field.full,
-  .participation-form .full,
-  .form-status {
-    grid-column: 1 / -1;
   }
 
   .footer-grid {
