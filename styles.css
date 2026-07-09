@@ -320,6 +320,21 @@ h3 {
   background: var(--color-blue-soft);
 }
 
+.button-disabled {
+  margin-top: auto;
+  color: var(--color-blue);
+  border-color: rgba(18, 58, 99, 0.12);
+  background: #f3f0e8;
+  box-shadow: none;
+  cursor: not-allowed;
+  opacity: 0.74;
+}
+
+.button-disabled:hover,
+.button-disabled:focus-visible {
+  transform: none;
+}
+
 .hero-symbol {
   position: relative;
   width: min(80vw, 390px);
@@ -439,7 +454,8 @@ h3 {
 
 .principle-card,
 .area-card,
-.phase-card {
+.phase-card,
+.document-card {
   border: 1px solid var(--color-line);
   border-radius: 8px;
   background: var(--color-surface-strong);
@@ -452,7 +468,8 @@ h3 {
 
 .principle-card p,
 .area-card p,
-.phase-card p {
+.phase-card p,
+.document-card p {
   margin: 12px 0 0;
   color: var(--color-muted);
 }
@@ -538,6 +555,18 @@ h3 {
   gap: 12px;
 }
 
+.document-grid {
+  align-items: stretch;
+}
+
+.document-card {
+  min-height: 260px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 22px;
+}
+
 .contact-line {
   padding-top: 8px;
   font-weight: 700;
@@ -548,6 +577,16 @@ h3 {
   text-decoration-color: rgba(201, 154, 50, 0.7);
   text-decoration-thickness: 2px;
   text-underline-offset: 4px;
+}
+
+.institutional-note {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border-left: 3px solid rgba(201, 154, 50, 0.72);
+  border-radius: 6px;
+  color: var(--color-muted);
+  background: rgba(255, 253, 248, 0.78);
+  font-size: 0.94rem;
 }
 
 .participation-form {
@@ -648,6 +687,10 @@ h3 {
 
 .site-footer p {
   margin: 6px 0 0;
+}
+
+.site-footer a {
+  color: #ffffff;
 }
 
 .footer-grid {
