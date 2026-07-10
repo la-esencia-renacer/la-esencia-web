@@ -95,6 +95,12 @@ No usar número personal. Crear únicamente con línea exclusiva o canal institu
 
 ---
 
+## Nota de publicación visible
+
+Los enlaces a Instagram, Facebook y LinkedIn fueron incorporados de manera visible y mínima en la web pública. WhatsApp institucional continúa pendiente hasta contar con línea exclusiva.
+
+---
+
 ## Reglas de uso de canales
 
 - No publicar datos personales.

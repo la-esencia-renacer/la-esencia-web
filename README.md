@@ -98,6 +98,8 @@ Se incorpora una carpeta canales/ con guías internas para crear y administrar I
 
 Se incorpora un registro interno de canales digitales creados en canales/canales-creados.md, incluyendo web, Instagram, Facebook, LinkedIn y estado pendiente de WhatsApp institucional. No contiene claves ni datos privados.
 
+Los enlaces visibles a Instagram, Facebook y LinkedIn fueron incorporados al footer y a la sección de contacto de la web pública. WhatsApp institucional permanece pendiente.
+
 ## Contacto provisorio
 
 laesenciarenacer@gmail.com
