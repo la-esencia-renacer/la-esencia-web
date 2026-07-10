@@ -90,6 +90,10 @@ Se incorpora una carpeta bitacora/ con registros públicos y sanitizados de hito
 
 Se incorpora una carpeta comunicacion/ con kit de lanzamiento suave, mensajes para redes, mensajes para referentes, guía de publicación inicial y una placa SVG institucional. Estos materiales son internos y deben usarse con criterio prudente, no electoral y no personalista.
 
+## Primera publicación suave
+
+Se incorpora en comunicacion/ una guía para la primera publicación pública de La Esencia, con textos diferenciados para Instagram, Facebook y LinkedIn, criterios de respuesta y calendario sugerido para la primera semana.
+
 ## Canales institucionales
 
 Se incorpora una carpeta canales/ con guías internas para crear y administrar Instagram, Facebook, LinkedIn y WhatsApp institucional exclusivo. Estos materiales son internos y no implican lanzamiento público inmediato.
