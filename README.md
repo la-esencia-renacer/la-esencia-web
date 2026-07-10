@@ -94,6 +94,10 @@ Se incorpora una carpeta comunicacion/ con kit de lanzamiento suave, mensajes pa
 
 Se incorpora una carpeta canales/ con guías internas para crear y administrar Instagram, Facebook, LinkedIn y WhatsApp institucional exclusivo. Estos materiales son internos y no implican lanzamiento público inmediato.
 
+## Canales creados
+
+Se incorpora un registro interno de canales digitales creados en canales/canales-creados.md, incluyendo web, Instagram, Facebook, LinkedIn y estado pendiente de WhatsApp institucional. No contiene claves ni datos privados.
+
 ## Contacto provisorio
 
 laesenciarenacer@gmail.com
